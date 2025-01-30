@@ -34,5 +34,7 @@ The project highlights key findings in student demographics, career readiness, a
 
 # Recommendations
 Financial Support: Provide scholarships for students from low-income backgrounds.
+
 Skill Development: Offer technical workshops in Python and data analysis.
+
 Mentorship: Focus on supporting students with lower GPAs or from underrepresented regions.
