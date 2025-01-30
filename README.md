@@ -4,10 +4,14 @@
 This project demonstrates skills in data collection, cleaning, analysis, and visualization using Python and Power BI. It involves scraping data from a PDF, cleaning the dataset, creating visualizations, and telling a data-driven story to provide actionable insights.
 
 # Objectives
-# Web Scraping: Extract email IDs of colleges in Mumbai.
-# Data Cleaning: Prepare the dataset for analysis by handling duplicates, null values, and irrelevant data.
-# Visualization: Build an interactive Power BI dashboard to reveal key insights.
-# Data Storytelling: Communicate insights for decision-making.
+# Web Scraping: 
+Extract email IDs of colleges in Mumbai.
+# Data Cleaning:
+Prepare the dataset for analysis by handling duplicates, null values, and irrelevant data.
+# Visualization: 
+Build an interactive Power BI dashboard to reveal key insights.
+# Data Storytelling:
+Communicate insights for decision-making.
 
 # Key Tasks
 Web Scraping: Extracted email IDs from a PDF file using Python libraries (requests, re, PyPDF2).
