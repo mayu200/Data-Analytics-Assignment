@@ -11,16 +11,22 @@ This project demonstrates skills in data collection, cleaning, analysis, and vis
 
 # Key Tasks
 Web Scraping: Extracted email IDs from a PDF file using Python libraries (requests, re, PyPDF2).
+
 Data Cleaning: Cleaned the dataset by removing duplicates, handling null values, and filtering data relevant to students.
+
 Visualization: Created an interactive Power BI dashboard displaying insights like:
 Student distribution by city
 Salary expectations vs. CGPA, family income, and Python experience
 Event participation and graduation year trends
+
 Data Storytelling: Provided insights into student demographics, career aspirations, and engagement levels.
 Deliverables
 Cleaned Dataset: Excel file with processed data.
+
 Python Code: Script (data_analytics_assignment.py) for web scraping and data cleaning.
+
 Power BI Dashboard: Interactive dashboard with key visualizations.
+
 Web Scraping Results: Extracted email IDs from Mumbai colleges.
 
 # Conclusion
